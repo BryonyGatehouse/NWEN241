@@ -1,0 +1,16 @@
+TEXT EDITOR
+
+This Assignment implements several basic text editor operations such as insert,
+delete, replace etc. Some will be implemented in pure C, and some in C++. 
+
+In Pure C:
+  -   Insert Character
+  -   Delete Character
+  -   Replace String
+  -   View
+  
+In C++:
+  -   Replace Character
+  -   Replace String
+  -   Justify (adjust space between words so it fits row and col size specified
+  -   View Window (can scroll up and down)
