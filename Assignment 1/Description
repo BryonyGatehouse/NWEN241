@@ -1,7 +1,6 @@
-TEXT EDITOR
+# Assignment 1 : Text Editor
 
-This Assignment implements several basic text editor operations such as insert,
-delete, replace etc. Some will be implemented in pure C, and some in C++. 
+This assignment was to create a text editor which implements several basic operations such as: insert, delete, replace. 
 
 In Pure C:
   -   Insert Character
