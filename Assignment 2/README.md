@@ -1,4 +1,6 @@
-STRING AND POINTERS
+# Assignment 2 : String and Pointers
+
+This assignment teaches how to use strings and pointers through practical steps.
 
 Pointers
   -   Declare a pointer
