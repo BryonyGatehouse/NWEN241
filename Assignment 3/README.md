@@ -1,9 +1,6 @@
-DATABASE MANAGEMENT SYSTEM
+# Assignment 3 : Database Management System
 
-This Assignment implemented a simple database management system (DBMS).
-Fundamental concept in DBMS is the table which consists of zero or more 
-records or entries, and each record can have one or more fields or columns
-In this database, each record has 4 fields: id, title, year, and artist.
+This Assignment is to implement a simple database management system (DBMS). Fundamental concept in DBMS is the table which consists of zero or more records or entries, and each record can have one or more fields or columns. In this database, each record has 4 fields: id, title, year, and artist.
 
   -   C Structure to hold one table record
   -   C++ class for holding information about the table (DbTable) including
